@@ -6,7 +6,10 @@ body{
   background-color: #000300;
 }
 
-.side-menu{
-  /* transition: left 0.5s ease-in-out; */
+header ul li a {
+  cursor: pointer;
+}
 
+.typed-cursor {
+  color:#00df9a ;
 }
